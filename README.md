@@ -1,0 +1,2 @@
+# shoppingapp
+django ,python project
